@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hnryjmes/power-set-google/issues"
   },
-  "homepage": "https://github.com/hnryjmes/power-set-google#readme"
+  "homepage": "https://github.com/hnryjmes/power-set-google#readme",
+  "devDependencies": {
+    "typescript": "^3.3.1"
+  }
 }
